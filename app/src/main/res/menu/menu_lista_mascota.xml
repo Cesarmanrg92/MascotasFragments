@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cesarandroid.mascotasandroid.ListaMascotaActivity">
+
+    <item
+        android:id="@+id/accion_contacto"
+        android:title="@string/contacto_menu"
+        android:icon="@drawable/star"
+        android:orderInCategory="100">
+    </item>
+    <item
+        android:id="@+id/accion_acerca"
+        android:title="@string/contacto_acerca"
+        android:orderInCategory="101">
+    </item>
+</menu>

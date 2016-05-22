@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mascotas_favoritas">Mascotas Favoritas</string>
+    <string name="nombre_perro_tomy">Tomy</string>
+    <string name="contacto_menu">Contacto</string>
+    <string name="contacto_acerca">Acerca de </string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="comentario">Comentario</string>
+    <string name="Enviar">Enviar</string>
+
+</resources>
